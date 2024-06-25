@@ -4,6 +4,8 @@
 This repository consists of a simple CLI search history extension implementation done using Java and suitable data structures. 
 Functions such as insert, delete and display search records can be performed on this search history extension. In addition to this, an algorithm to reverse and display the search history, and an algorithm to display the bookmarked sites have also been implemented.
 
+Note: This algorithm was implemented with all data structures hard-coded (no in-built libraries used)
+
 ### Basic functions
 - Insert search record
 - Delete search record
